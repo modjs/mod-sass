@@ -1,0 +1,36 @@
+{
+    "name": "mod-sass",
+    "description": "Compile Sass files to CSS",
+    "version": "0.1.0",
+    "homepage": "https://github.com/modjs/sass",
+    "author": {
+        "name": "yuanyan",
+        "url": "https://github.com/yuanyan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/modjs/sass.git"
+    },
+    "bugs": {
+        "url": "https://github.com/modjs/sass/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/modjs/sass/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bin": "",
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "dependencies": {
+        "node-sass": "~0.5.4"
+    },
+    "devDependencies": {
+    },
+    "keywords": []
+}
